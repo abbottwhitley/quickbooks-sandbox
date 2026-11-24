@@ -1,1 +1,33 @@
-IyBBUCBSZXZpZXcgUGFjayDigJQgU2FuZGJveCBDb21wYW55IFVTIDAzNmUKCioqUnVuOioqIE5vdmVtYmVyIDIzLCAyMDI2IMK3ICoqQmF0Y2g6KiogNiBzdXBwbGllciBpbnZvaWNlcyDCtyAqKlByZXBhcmVkIGJ5OioqIEFQIFByZXAgUGFjayBwbGF5Ym9vayAocmVhZCBiYXRjaCDihpIgbWF0Y2ggdmVuZG9ycyDihpIgZHVwbGljYXRlIGNoZWNrIOKGkiBjYXRlZ29yaXplIOKGkiBkcmFmdCkKCj4gTm90aGluZyBoZXJlIGlzIHBhaWQuIEFwcHJvdmUgb3IgZGVsZXRlIGVhY2ggZHJhZnQgaW4gUXVpY2tCb29rcyDigJQgYXBwcm92YWwgbGl2ZXMgaW4gUUJPLCB3aGVyZSB0aGUgYXVkaXQgdHJhaWwgaXMuCgojIyBEcmFmdGVkIGluIFF1aWNrQm9va3MgKDQgYmlsbHMsICQyLDM1NS45MikKCnwgSW52b2ljZSB8IFZlbmRvciB8IEFtb3VudCB8IER1ZSB8IENhdGVnb3J5IHwgUUJPIGJpbGwgfAp8LS0tfC0tLXwtLS06fC0tLXwtLS18LS0tfAp8IE5MLTQ0NzEgKE5vdiAyMCkgfCBOb3J0b24gTHVtYmVyIGFuZCBCdWlsZGluZyBNYXRlcmlhbHMgfCAkMSwyNDAuMDAgfCBEZWMgNCwgMjAyNiB8IEpvYiBNYXRlcmlhbHMgfCAjMTQ2IHwKfCBQRyZFIHN0YXRlbWVudCAoTm92IDE4KSB8IFBHJkUgfCAkMTg2LjQyIHwgRGVjIDksIDIwMjYgfCBVdGlsaXRpZXMgfCAjMTQ3IHwKfCBFUi04ODEyIChOb3YgMjEpIHwgRWxsaXMgRXF1aXBtZW50IFJlbnRhbCB8ICQ1NDAuMDAgfCBEZWMgMjEsIDIwMjYg4pqgIHwgRXF1aXBtZW50IFJlbnRhbCB8ICMxNDggfAp8IFJNTS0xMDQzIChOb3YgMjIpIHwgUm9ja3kgTW91bnRhaW4gTXVsY2ggQ28uIOKaoCB8ICQzODkuNTAgfCBEZWMgNiwgMjAyNiB8IFBsYW50cyBhbmQgU29pbCB8ICMxNDkgfAoK4pqgIEZsYWdzIG9uIGRyYWZ0czoKLSAqKkVsbGlzICgjMTQ4KToqKiB0aGUgaW52b2ljZSBzdGF0ZWQgbm8gZHVlIGRhdGUuIERyYWZ0ZWQgYXMgTmV0IDMwIChEZWMgMjEpIGZyb20gInBheW1lbnQgdGVybXMgb24gZmlsZSIg4oCUIGNvbmZpcm0gdGhlIHJlYWwgdGVybXMgYmVmb3JlIGFwcHJvdmluZy4gQWxzbyBub3RlOiB0aGlzIGNoYXJ0IGhhcyAqKnR3byoqIGFjY291bnRzIG5hbWVkICJFcXVpcG1lbnQgUmVudGFsIiAoSURzIDI5IGFuZCA2Mik7IGRyYWZ0ZWQgdG8gMjkuIFdvcnRoIGNvbnNvbGlkYXRpbmcuCi0gKipSb2NreSBNb3VudGFpbiBNdWxjaCAoIzE0OSk6KiogKipuZXcgdmVuZG9yKiog4oCUIG5vdCBpbiBRdWlja0Jvb2tzIGJlZm9yZSB0aGlzIHJ1bi4gQ3JlYXRlZCAodmVuZG9yIElEIDIwMDAwMDAwMSkgYW5kIGRyYWZ0ZWQgYmVjYXVzZSB0aGlzIGlzIGEgc2FuZGJveDsgaW4gYSBsaXZlIGNvbXBhbnkncyBib29rcyB0aGlzIHN0b3BzIGF0IHRoZSBleGNlcHRpb24gbGlzdCB1bnRpbCBhIGh1bWFuIGFwcHJvdmVzIHRoZSBuZXcgdmVuZG9yLgoKIyMgRXhjZXB0aW9ucyDigJQgbmVlZCBhIGh1bWFuIGRlY2lzaW9uICgyIGludm9pY2VzKQoKfCBJbnZvaWNlIHwgQW1vdW50IHwgV2h5IGl0J3MgaGVsZCB8IERlY2lzaW9uIG5lZWRlZCB8CnwtLS18LS0tOnwtLS18LS0tfAp8IFJvYmVydHNvbiAmIEFzc29jaWF0ZXMgKE9jdCAyNykgfCAkMzE1LjAwIHwgKipTdXNwZWN0ZWQgZHVwbGljYXRlKiogb2YgZXhpc3RpbmcgYmlsbCAqKiMxMDgqKiDigJQgc2FtZSB2ZW5kb3IsIHNhbWUgJDMxNS4wMCB0b3RhbCwgZGF0ZWQgT2N0IDI4LCAyMDI2LCBzdGlsbCBvcGVuLiBUaGUgc2VuZGVyJ3Mgb3duIG5vdGUgc2F5cyAiYWxzbyBzZW50IGxhc3QgbW9udGguIiB8IENvbmZpcm0gaXQncyBhIHJlLXNlbmQgYW5kIGlnbm9yZSwgb3IgaWYgaXQncyBhIGdlbnVpbmUgc2Vjb25kIGNoYXJnZSwgc2F5IHNvIGFuZCBpdCB3aWxsIGJlIGRyYWZ0ZWQuIHwKfCBIaWNrcyBIYXJkd2FyZSByZWNlaXB0IChOb3YgMTkpIHwgJDIxMi4xOCBvciAkMjIxLjE4IHwgKipUb3RhbCBpcyB1bnJlYWRhYmxlKiog4oCUIHRoZSBzY2FuIGlzIHNtdWRnZWQgYW5kIHRoZSB0d28gcmVhZGluZ3MgZGlzYWdyZWUgKCQyMTIuMTggc3VidG90YWwgdnMuIGEgdG90YWwgdGhhdCByZWFkcyBhcyBlaXRoZXIgJDIyMS4xOCBvciAkMjEyLjE4KS4gTmV2ZXIgZHJhZnQgYSBndWVzc2VkIG51bWJlci4gfCBHZXQgYSBjbGVhbiBjb3B5IG9yIGNvbmZpcm0gdGhlIHRvdGFsIHdpdGggdGhlIHZlbmRvci4gfAoKIyMgVG90YWxzCi0gQmF0Y2ggdG90YWw6ICoqJDIsODgyLjkyKiogZHJhZnRlZCArIGhlbGQgKHVzaW5nICQyMTIuMTggZm9yIHRoZSB1bnJlYWRhYmxlIHJlY2VpcHQpCi0gRHJhZnRlZDogKiokMiwzNTUuOTIqKiAoNCBiaWxscykKLSBIZWxkIGZvciBkZWNpc2lvbnM6ICoqJDUyNy4wMCoqICgyIGludm9pY2VzKQoKIyMgSG93IHRoaXMgcmFuCkludm9pY2VzIHdlcmUgcmVhZCBmcm9tIHBsYWluLXRleHQgc2FtcGxlcyAoYGFwLXByZXAtcGFjay9zYW1wbGVzL2ApLCBtYXRjaGVkIGFnYWluc3QgdGhlIGxpdmUgdmVuZG9yIGxpc3QgKDI2IHZlbmRvcnMpLCBjaGVja2VkIGFnYWluc3QgYWxsIDE2IGV4aXN0aW5nIGJpbGxzLCBjYXRlZ29yaXplZCBmcm9tIHRoZSBjb21wYW55J3Mgb3duIGNoYXJ0IG9mIGFjY291bnRzLCBhbmQgZHJhZnRlZCB0aHJvdWdoIHRoZSBRdWlja0Jvb2tzIEFQSS4gRXZlcnkgZmlndXJlIGFib3ZlIGNvbWVzIGZyb20gdGhpcyBydW4ncyByZWFkcyBhbmQgdGhlIHJlYWQtYmFjayB2ZXJpZmljYXRpb24gb2YgdGhlIGZvdXIgY3JlYXRlZCBiaWxscy4K
+# AP Review Pack — Sandbox Company US 036e
+
+**Run:** November 23, 2026 · **Batch:** 6 supplier invoices · **Prepared by:** AP Prep Pack playbook (read batch → match vendors → duplicate check → categorize → draft)
+
+> Nothing here is paid. Approve or delete each draft in QuickBooks — approval lives in QBO, where the audit trail is.
+
+## Drafted in QuickBooks (4 bills, $2,355.92)
+
+| Invoice | Vendor | Amount | Due | Category | QBO bill |
+|---|---|---:|---|---|---|
+| NL-4471 (Nov 20) | Norton Lumber and Building Materials | $1,240.00 | Dec 4, 2026 | Job Materials | #146 |
+| PG&E statement (Nov 18) | PG&E | $186.42 | Dec 9, 2026 | Utilities | #147 |
+| ER-8812 (Nov 21) | Ellis Equipment Rental | $540.00 | Dec 21, 2026 ⚠ | Equipment Rental | #148 |
+| RMM-1043 (Nov 22) | Rocky Mountain Mulch Co. ⚠ | $389.50 | Dec 6, 2026 | Plants and Soil | #149 |
+
+⚠ Flags on drafts:
+- **Ellis (#148):** the invoice stated no due date. Drafted as Net 30 (Dec 21) from "payment terms on file" — confirm the real terms before approving. Also note: this chart has **two** accounts named "Equipment Rental" (IDs 29 and 62); drafted to 29. Worth consolidating.
+- **Rocky Mountain Mulch (#149):** **new vendor** — not in QuickBooks before this run. Created (vendor ID 200000001) and drafted because this is a sandbox; in a live company's books this stops at the exception list until a human approves the new vendor.
+
+## Exceptions — need a human decision (2 invoices)
+
+| Invoice | Amount | Why it's held | Decision needed |
+|---|---:|---|---|
+| Robertson & Associates (Oct 27) | $315.00 | **Suspected duplicate** of existing bill **#108** — same vendor, same $315.00 total, dated Oct 28, 2026, still open. The sender's own note says "also sent last month." | Confirm it's a re-send and ignore, or if it's a genuine second charge, say so and it will be drafted. |
+| Hicks Hardware receipt (Nov 19) | $212.18 or $221.18 | **Total is unreadable** — the scan is smudged and the two readings disagree ($212.18 subtotal vs. a total that reads as either $221.18 or $212.18). Never draft a guessed number. | Get a clean copy or confirm the total with the vendor. |
+
+## Totals
+- Batch total: **$2,882.92** drafted + held (using $212.18 for the unreadable receipt)
+- Drafted: **$2,355.92** (4 bills)
+- Held for decisions: **$527.00** (2 invoices)
+
+## How this ran
+Invoices were read from plain-text samples (`ap-prep-pack/samples/`), matched against the live vendor list (26 vendors), checked against all 16 existing bills, categorized from the company's own chart of accounts, and drafted through the QuickBooks API. Every figure above comes from this run's reads and the read-back verification of the four created bills.

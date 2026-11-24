@@ -1,1 +1,8 @@
-RnJvbTogb2ZmaWNlQHJvYmVydHNvbi1hc3NvYy5leGFtcGxlClN1YmplY3Q6IEludm9pY2UgZm9yIE9jdG9iZXIgY29uc3VsdGluZwoKUm9iZXJ0c29uICYgQXNzb2NpYXRlcwpEYXRlOiBPY3RvYmVyIDI3LCAyMDI2CkNvbnN1bHRpbmcgc2VydmljZXMg4oCUIE9jdG9iZXI6ICQzMTUuMDAKVG90YWw6ICQzMTUuMDAKKFJlbWluZGVyOiB0aGlzIGludm9pY2Ugd2FzIGFsc28gc2VudCBsYXN0IG1vbnRoLikK
+From: office@robertson-assoc.example
+Subject: Invoice for October consulting
+
+Robertson & Associates
+Date: October 27, 2026
+Consulting services — October: $315.00
+Total: $315.00
+(Reminder: this invoice was also sent last month.)

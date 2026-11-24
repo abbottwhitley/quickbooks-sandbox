@@ -1,1 +1,12 @@
-RnJvbTogYmlsbGluZ0Bub3J0b25sdW1iZXIuZXhhbXBsZQpTdWJqZWN0OiBJbnZvaWNlIE5MLTQ0NzEKCk5vcnRvbiBMdW1iZXIgYW5kIEJ1aWxkaW5nIE1hdGVyaWFscwpJbnZvaWNlICM6IE5MLTQ0NzEKRGF0ZTogTm92ZW1iZXIgMjAsIDIwMjYKVGVybXM6IE5ldCAxNCAoZHVlIERlY2VtYmVyIDQsIDIwMjYpCgpGcmFtaW5nIGx1bWJlciBhbmQgZGVja2luZyBtYXRlcmlhbHMg4oCUIEpvaG5zb24gam9iClRvdGFsIGR1ZTogJDEsMjQwLjAwCgpUaGFuayB5b3UgZm9yIHlvdXIgYnVzaW5lc3MuCg==
+From: billing@nortonlumber.example
+Subject: Invoice NL-4471
+
+Norton Lumber and Building Materials
+Invoice #: NL-4471
+Date: November 20, 2026
+Terms: Net 14 (due December 4, 2026)
+
+Framing lumber and decking materials — Johnson job
+Total due: $1,240.00
+
+Thank you for your business.
